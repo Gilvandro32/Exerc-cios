@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699286919 source:c:\users\gilvandro\documents\conversor_de_medidas\main.c
+	<stdio.h>
+	<stdlib.h>
+
